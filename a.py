@@ -1,7 +1,7 @@
 son = 33
 n = ""
 if son % 2 == 0:
-    n += "juft son"
+    n += "j s"
 else:
-    n += "toq son"
+    n += "t s"
 print(n)
